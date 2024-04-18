@@ -271,7 +271,7 @@
                             <div class="service-two__card-content">
                                 <div class="service-two__card-icon">
                                     <!-- <i class="fa fa-university" aria-hidden="true"></i> -->
-                                    <img src="<?= base_url() ?>assets/BIMAS-ICON.png" style="max-width: 70%; height: auto;" alt="">
+                                    <img src="<?= base_url() ?>assets/BIMAS-ICON.png" style="max-width: 60%; height: auto;" alt="">
                                 </div><!-- /.service-two__card-icon -->
                                 <h3>
                                     <a href="#"><p class='dua'>BIMAS ISLAM</p></a>
@@ -287,7 +287,7 @@
                             <div class="service-two__card-content">
                                 <div class="service-two__card-icon">
                                     <!-- <i class="bi bi-building-fill"></i> -->
-                                    <img src="<?= base_url() ?>assets/HAJIUMROH-ICON.png" style="max-width: 70%; height: auto;" alt="">
+                                    <img src="<?= base_url() ?>assets/HAJIUMROH-ICON.png" style="max-width: 60%; height: auto;" alt="">
                                 </div><!-- /.service-two__card-icon -->
                                 <h3><a href="#"><p class="dua">HAJI & UMROH</p></a></h3>
                             </div><!-- /.service-two__card-content -->
@@ -316,7 +316,7 @@
                             <div class="service-two__card-content">
                                 <div class="service-two__card-icon">
                                     <!-- <i class="bi bi-buildings-fill"></i> -->
-                                    <img src="<?= base_url() ?>assets/PAIS-ICON.png" style="max-width: 70%; height: auto;" alt="">
+                                    <img src="<?= base_url() ?>assets/PAIS-ICON.png" style="max-width: 60%; height: auto;" alt="">
                                 </div><!-- /.service-two__card-icon -->
                                 <h3><a href="service-details"><p class="2">PAIS</p></a></h3>
                             </div><!-- /.service-two__card-content -->
@@ -330,7 +330,7 @@
                             <div class="service-two__card-content">
                                 <div class="service-two__card-icon">
                                     <!-- <i class="bi bi-houses-fill"></i> -->
-                                    <img src="<?= base_url() ?>assets/PONTREN-ICON.png" style="max-width: 70%; height: auto;" alt="">
+                                    <img src="<?= base_url() ?>assets/PONTREN-ICON.png" style="max-width: 60%; height: auto;" alt="">
                                 </div><!-- /.service-two__card-icon -->
                                 <h3><a href="service-details"><p class="2">PD.PONTREN</p></a></h3>
                             </div><!-- /.service-two__card-content -->
@@ -344,7 +344,7 @@
                             <div class="service-two__card-content">
                                 <div class="service-two__card-icon">
                                     <!-- <i class="bi bi-houses-fill"></i> -->
-                                    <img src="<?= base_url() ?>assets/SYARIAH-ICON.png" style="max-width: 70%; height: auto;" alt="">
+                                    <img src="<?= base_url() ?>assets/SYARIAH-ICON.png" style="max-width: 60%; height: auto;" alt="">
                                 </div><!-- /.service-two__card-icon -->
                                 <h3><a href="service-details"><p class="2">P.SYARIAH</p></a></h3>
                             </div><!-- /.service-two__card-content -->
@@ -358,7 +358,7 @@
                             <div class="service-two__card-content">
                                 <div class="service-two__card-icon">
                                     <!-- <i class="bi bi-houses-fill"></i> -->
-                                    <img src="<?= base_url() ?>assets/KRISTEN-ICON.png" style="max-width: 70%; height: auto;" alt="">
+                                    <img src="<?= base_url() ?>assets/KRISTEN-ICON.png" style="max-width: 60%; height: auto;" alt="">
                                 </div><!-- /.service-two__card-icon -->
                                 <h3><a href="service-details"><p class="2">P.KRISTEN</p></a></h3>
                             </div><!-- /.service-two__card-content -->
@@ -372,7 +372,7 @@
                             <div class="service-two__card-content">
                                 <div class="service-two__card-icon">
                                     <!-- <i class="bi bi-houses-fill"></i> -->
-                                    <img src="<?= base_url() ?>assets/HINDU-ICON.png" style="max-width: 70%; height: auto;" alt="">
+                                    <img src="<?= base_url() ?>assets/HINDU-ICON.png" style="max-width: 60%; height: auto;" alt="">
                                 </div><!-- /.service-two__card-icon -->
                                 <h3><a href="service-details"><p class="2">L.HINDU</p></a></h3>
                             </div><!-- /.service-two__card-content -->
@@ -386,7 +386,7 @@
                             <div class="service-two__card-content">
                                 <div class="service-two__card-icon">
                                     <!-- <i class="bi bi-houses-fill"></i> -->
-                                    <img src="<?= base_url() ?>assets/BUDHA-ICON.png" style="max-width: 70%; height: auto;" alt="">
+                                    <img src="<?= base_url() ?>assets/BUDHA-ICON.png" style="max-width: 60%; height: auto;" alt="">
                                 </div><!-- /.service-two__card-icon -->
                                 <h3><a href="service-details"><p class="2">L.BUDHA</p></a></h3>
                             </div><!-- /.service-two__card-content -->
@@ -400,7 +400,7 @@
                             <div class="service-two__card-content">
                                 <div class="service-two__card-icon">
                                     <!-- <i class="bi bi-houses-fill"></i> -->
-                                    <img src="<?= base_url() ?>assets/KATOLIK-ICON.png" style="max-width: 70%; height: auto;" alt="">
+                                    <img src="<?= base_url() ?>assets/KATOLIK-ICON.png" style="max-width: 60%; height: auto;" alt="">
                                 </div><!-- /.service-two__card-icon -->
                                 <h3><a href="service-details"><p class="2">L.KATOLIK</p></a></h3>
                             </div><!-- /.service-two__card-content -->
@@ -415,7 +415,7 @@
                                 <div class="service-two__card-icon">
                                     <!-- </i><i class="bi bi-houses-fill"></i> -->
                                     <!-- ganti ke gambar -->
-                                    <img src="<?= base_url() ?>assets/KONGHUCU-ICON.png" style="max-width: 70%; height: auto;" alt="">
+                                    <img src="<?= base_url() ?>assets/KONGHUCU-ICON.png" style="max-width: 60%; height: auto;" alt="">
                                 </div><!-- /.service-two__card-icon -->
                                 <h3><a href="service-details"><p class="2">L.KHONGHUCU</p></a></h3>
                             </div><!-- /.service-two__card-content -->
